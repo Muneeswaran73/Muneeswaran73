@@ -4,6 +4,29 @@
 📫 Reach me via email at vmuneeswaran73@gmail.com 
 😄 Pronouns:Techie 
 ⚡ Fun fact:I know japanese 
+Skills:
+    Languages 
+      ☕ Java
+      🔧 C
+      🐍 Python
+      🟨 JavaScript
+      🌐 HTML
+      🎨 CSS
+    Databases
+      🐘 PostgreSQL
+      🛢️ MySQL
+      🗄️ JDBC API
+      🗃️ SQLite
+    Frameworks
+      🅱️ Bootstrap
+      🍃 Spring
+      🌱 Spring Boot
+    Tools and Platform 
+      🐙 GitHub
+      🖥️ VS Code
+      🖥️ Eclipse
+    Mobile development 
+      📱 Android Basics
 
 <!---
 Muneeswaran73/Muneeswaran73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
